@@ -1,11 +1,10 @@
-************** Heart Disease Data Analysis - Mid Project - Rotem Hajaj **************
+## Heart Disease Data Analysis - Mid Project - Rotem Hajaj
 
+### Project Description
 
-Project Description
+**This project analyzes a dataset on heart disease and explores the relationships between various factors like age, gender, exercise habits, smoking, and family history with the occurrence of heart disease.**
 
-**This project analyzes a dataset on heart disease and explores the relationships between various factors like age, gender, exercise habits, smoking, and family history with the occurrence of heart disease.
-
-**The project is written in Jupyter Notebook and divided to sections -
+**The project is written in Jupyter Notebook and divided to sections -**
 1. Importing relevant packages and lib.
 2. Data Observation and Verification - showing the size of data, statistics, data type and unique values in columns. 
 3. Data Cleaning - choosing the relevant columns for the analysis, checking duplicates, dropna, filling null values with the mean of numerical columns and data types changes.
